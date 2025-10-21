@@ -7,14 +7,23 @@
   - Create assessment data models and TypeScript interfaces
   - Set up question bank structure with sample questions
   - Implement basic session management with local storage
+
+
+
+
+
   - _Requirements: 1.1, 2.2, 4.2_
 
 - [ ] 2. Build question rendering system
-  - [ ] 2.1 Create QuestionRenderer component with type switching
+  - [x] 2.1 Create QuestionRenderer component with type switching
+
+
     - Implement multiple choice question display
     - Add drag-and-drop interaction handling
     - Create text input question interface
     - _Requirements: 1.1, 4.1_
+
+
   
   - [ ] 2.2 Implement AudioPlayer component for listening exercises
     - Add audio playback controls (play, pause, replay)
